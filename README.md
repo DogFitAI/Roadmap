@@ -1,11 +1,11 @@
 # $DOGFAI ROADMAP 🚀
 
-Phase 1: Foundation & Launch 🚀
+**Phase 1: Foundation & Launch 🚀**
 - Core AI Health Assistant Development: Craft an AI that speaks in the language of memes, answering health queries with the wit of Doge and the charm of Shiba Inu. Doge says: "Much health, wow!" 🐕💪
 - Design & User Experience: Design an interface that feels like a playground for meme lovers, intuitive and dripping with dog-themed fun. Shiba Inu approves: "Such design, very wow!" 🐶🎨
 - Launch MVP: Release our beta to the community, because early adopters are the real MVPs. Pepe whispers: "Feels launch man" 🐸🔥
 
-Phase 2: Expansion & Enhancement 🌟
+**Phase 2: Expansion & Enhancement 🌟**
 - Introducing $DOGFAI ROBONATORS: DogDoc 🐕‍🩺, PupFolio 🐶💰 and many more - Your Ultimate Personal and Wealth Companions Powered by AI!
 - Introducing $DOGFAI SOCONATORS: Social and Community Managers bot Powered by AI!
 - Utilities Expansion: Integrate features that blend personal health with portfolio management, because who said health can't be both physical and financial? Doge grins: "Wow, much utility!" 🐕📈
