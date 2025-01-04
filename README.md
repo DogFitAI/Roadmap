@@ -48,7 +48,7 @@ https://dexscreener.com/icp/ixhus-2iaaa-aaaam-qcxya-cai
 - 📢 https://t.me/DogFitAI
 - 🦋 https://bsky.app/profile/dogfitai.fun
 - 🐙 https://github.com/DogFitAI/Roadmap
-- 🤝 https://oc.app/group/g3iqh-vqaaa-aaaac-ab74a-cai/?ref=ov4am-5yaaa-aaaac-acoba-cai&code=0b74d25af900fa2e
+- 🤝 https://oc.app/community/shwzu-eiaaa-aaaac-acl7q-cai/?ref=ov4am-5yaaa-aaaac-acoba-cai
 - 📧 contact@dogfitai.fun
 
 
