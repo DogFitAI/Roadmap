@@ -27,6 +27,11 @@
 - Collaborations: Forge partnerships and offer $DOGFAI-branded AI agent services to other projects. Doge winks: "Much partnership, wow!" 🐕🤝
 - Centralized Exchange: Secure listings on centralized exchanges, increasing liquidity, accessibility, and global exposure for $DOGFAI!" 🐶📚
 
+**Phase 5: TBC 🔮**
+Keep your eyes peeled for what's next in our meme-filled universe of health and wealth! Pepe teases: "Feels like more coming man" 🐸🔮
+
+**With $DOGFAI, your health journey is not just a path to better living; it's an adventure filled with laughter, memes, and the joy of canine companionship.**
+
 
 **How To Buy:**
 
@@ -36,21 +41,14 @@ https://app.icpswap.com/swap?input=ryjl3-tyaaa-aaaaa-aaaba-cai&output=ixhus-2iaa
 DexScreener:
 https://dexscreener.com/icp/ixhus-2iaaa-aaaam-qcxya-cai
 
-
 **CONTACT**
 
-🌐 https://www.dogfitai.fun
-🦋 https://bsky.app/profile/dogfitai.fun
-🐦 X https://x.com/DogFitAI   
-📢 https://t.me/DogFitAI
-🐙 https://github.com/DogFitAI/Roadmap
-🤝 https://oc.app/group/g3iqh-vqaaa-aaaac-ab74a-cai/?ref=ov4am-5yaaa-aaaac-acoba-cai&code=0b74d25af900fa2e
-📧 contact@dogfitai.fun
+- 🌐 https://www.dogfitai.fun
+- 🐦 X https://x.com/DogFitAI
+- 📢 https://t.me/DogFitAI
+- 🦋 https://bsky.app/profile/dogfitai.fun
+- 🐙 https://github.com/DogFitAI/Roadmap
+- 🤝 https://oc.app/group/g3iqh-vqaaa-aaaac-ab74a-cai/?ref=ov4am-5yaaa-aaaac-acoba-cai&code=0b74d25af900fa2e
+- 📧 contact@dogfitai.fun
 
 
-
-**Phase 5: TBC 🔮**
-Keep your eyes peeled for what's next in our meme-filled universe of health and wealth! Pepe teases: "Feels like more coming man" 🐸🔮
-
-
-**With $DOGFAI, your health journey is not just a path to better living; it's an adventure filled with laughter, memes, and the joy of canine companionship.**
