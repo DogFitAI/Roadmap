@@ -28,6 +28,27 @@
 - Centralized Exchange: Secure listings on centralized exchanges, increasing liquidity, accessibility, and global exposure for $DOGFAI!" 🐶📚
 
 
+**How To Buy:**
+
+ICP Swap Link:
+https://app.icpswap.com/swap?input=ryjl3-tyaaa-aaaaa-aaaba-cai&output=ixhus-2iaaa-aaaam-qcxya-cai
+
+DexScreener:
+https://dexscreener.com/icp/ixhus-2iaaa-aaaam-qcxya-cai
+
+
+**CONTACT**
+
+🌐 https://www.dogfitai.fun
+🦋 https://bsky.app/profile/dogfitai.fun
+🐦 X https://x.com/DogFitAI   
+📢 https://t.me/DogFitAI
+🐙 https://github.com/DogFitAI/Roadmap
+🤝 https://oc.app/group/g3iqh-vqaaa-aaaac-ab74a-cai/?ref=ov4am-5yaaa-aaaac-acoba-cai&code=0b74d25af900fa2e
+📧 contact@dogfitai.fun
+
+
+
 **Phase 5: TBC 🔮**
 Keep your eyes peeled for what's next in our meme-filled universe of health and wealth! Pepe teases: "Feels like more coming man" 🐸🔮
 
