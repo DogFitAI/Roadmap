@@ -17,7 +17,7 @@
 
 **Phase 3: Expansion & Enhancement 🌟**
 - NFT Collection: Release an exclusive NFT series with perks for holders!".
-- Introducing $DOGFAI-NFT: Launch NFTs backed by real world assets, all wrapped in meme magic.
+- Introducing $DOGFAI Realify-NFT: Launch NFTs backed by real world assets, all wrapped in meme magic.
 - DOGFAI VR-Marketplace: Launch the $DOGFAI Marketplace for merchandise and crypto products.
 - Migrate on ICP Blockchain: Integrate website and utilties with ICP Blockchain for secure, user-controlled data.
 
