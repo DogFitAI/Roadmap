@@ -42,6 +42,7 @@ https://dexscreener.com/icp/ixhus-2iaaa-aaaam-qcxya-cai
 
 **CONTACT**
 
+- 🔗 https://linktr.ee/dogfai
 - 🌐 https://www.dogfitai.fun
 - 🐦 X https://x.com/DogFitAI
 - 📢 https://t.me/DogFitAI
