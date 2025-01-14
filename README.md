@@ -1,7 +1,7 @@
 # $DOGFAI ROADMAP
 
 **Phase 1: Foundation & Launch 🚀**
-- Core AI Health Assistant Development: Craft an AI Agent that speaks in the language of memes, answering health queries with the wit of Doge and the charm of Shiba Inu.
+- Core AI Health and Wealth Assistant Development: Craft an AI Agent that speaks in the language of memes, answering health and wealth queries with the wit of    Doge and the charm of Shiba Inu.
 - Design & User Experience: Design an interface that feels like a playground for meme lovers, intuitive and dripping with dog-themed fun.
 - Launch MVP: Release our beta version to the community, because early adopters are the real MVPs.
 
